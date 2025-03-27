@@ -33,7 +33,7 @@ pipenv run python projectile_motion_energy.py
 * description: This simulation models the motion of a projectile under gravity. It calculates and visualizes the projectile's trajectory while also computing and displaying the kinetic energy, potential energy and total energy over calculation time. This example helps demonstrate the principle of energy conservatin in projectile motion.
 
 # License
-MIT License
+[MIT License](LICENSE)
 
 # References
 * [JAX](https://docs.jax.dev/en/latest/index.html)
