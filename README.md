@@ -32,6 +32,11 @@ pipenv run python projectile_motion_energy.py
 * file name: `projectile_motion_energy.py`
 * description: This simulation models the motion of a projectile under gravity. It calculates and visualizes the projectile's trajectory while also computing and displaying the kinetic energy, potential energy and total energy over calculation time. This example helps demonstrate the principle of energy conservatin in projectile motion.
 
+## 2. Random Walk
+* file name: `random_walk.py`
+* description: A random walk is a mathematical process where an object moves in random directions at each step. In a 2D grid, it typically moves up, down, left, or right, with each direction chosen randomly. The path of the object is recorded, creating a random trajectory.
+
+
 # License
 [MIT License](LICENSE)
 
